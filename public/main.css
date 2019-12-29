@@ -173,7 +173,7 @@ body {
 }
 
 button {
-  width: 10%;
+  width: 10em;
   padding: 14px 16px;
   border-radius: 25px;
   background-color: green;

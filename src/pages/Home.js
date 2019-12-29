@@ -9,7 +9,7 @@ class Home extends React.Component {
       <div>
         <div className="jumbotron">
           <h1>CrackEd</h1>
-          <h3>An engineered solution to help students crack their exams..!</h3>
+          <h3>Where search ends and solutions begin..!</h3>
         </div>
         <div className="description">
           <div className="overview">
@@ -18,11 +18,11 @@ class Home extends React.Component {
           </div>
           <div className="vision">
             <h1>Our Vision</h1>
-            <p>*Vision comes here*</p>
+            <p>Fostering learning through the use of technology</p>
           </div>
           <div className="aim">
             <h1>Aim</h1>
-            <p>*Aim comes here*</p>
+            <p>To provide an engineered solution to help students crack their exams..!</p>
           </div>
           <div className="trends">
             <h1>Trending topics</h1>
